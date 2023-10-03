@@ -1,122 +1,46 @@
 export default [
   {
-    "maintainer": "kailash360",
-    "project": "e-market"
+    "maintainer": "sidjaiswal2003",
+    "project": "SocialMedia-App"
   },
   {
-    "maintainer": "kailash360",
-    "project": "Snap-Stock"
-  },
-  {
-    "maintainer": "gurpreet_legend",
-    "project": "Expresso"
-  },
-  {
-    "maintainer": "gurpreet_legend",
-    "project": "Alan-Feed"
-  },
-  {
-    "maintainer": "gurpreet_legend",
-    "project": "Face-Recognition-Brainiac-Frontend"
-  },
-  {
-    "maintainer": "gurpreet_legend",
-    "project": "Face-Recognition-Braniac-Backend"
-  },
-  {
-    "maintainer": "gurpreet_legend",
-    "project": "whatsapp-clone"
-  },
-  {
-    "maintainer": "pratul20",
-    "project": "IIITM-Tracker"
-  },
-  {
-    "maintainer": "akashgupta1909",
-    "project": "Uthaan-Frontend"
-  },
-  {
-    "maintainer": "akashgupta1909",
-    "project": "uthaan-backend"
-  },
-  {
-    "maintainer": "ashok-arora",
-    "project": "spotify-hit-predictor"
-  },
-  {
-    "maintainer": "theninza",
-    "project": "vc-room"
-  },
-  {
-    "maintainer": "theninza",
-    "project": "imcrypt"
-  },
-  {
-    "maintainer": "theninza",
-    "project": "dsa-visualizer"
-  },
-  {
-    "maintainer": "sohan2410",
-    "project": "crypto-transactions"
-  },
-  {
-    "maintainer": "XDRAGON2002",
-    "project": "POKEDEX"
-  },
-  {
-    "maintainer": "XDRAGON2002",
-    "project": "iiiit-gram"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tomperjs"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tomper-readmify"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tomper-chat"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tloc"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tomper-wear-ecommerce"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tomper-wear-ecommerce-backend"
-  },
-  {
-    "maintainer": "varunKT001",
-    "project": "tomper-wear-ecommerce-admin"
-  },
-  {
-    "maintainer": "sadityakumar9211",
-    "project": "nextjs-nft-marketplace"
-  },
-	{
     "maintainer": "sohan2410",
     "project": "GitFest"
   },
   {
-    "maintainer": "UjjawalGupta30",
-    "project": "ConnectX-Frontend"
+    "maintainer": "sohan2410",
+    "project": "aasf-api"
   },
   {
-    "maintainer": "UjjawalGupta30",
-    "project": "ConnectX-Backend"
+    "maintainer": "sadityakumar9211",
+    "project": "medichain-hardhat"
   },
-	{
-		"maintainer": "hs2361",
-    "project": "horario"
-	},
-	{
-		"maintainer": "hs2361",
-    "project": "k-means-compressor"
-	}
+  {
+    "maintainer": "joeyyy09",
+    "project": "CoinKeeper"
+  },
+  {
+    "maintainer": "joeyyy09",
+    "project": "kanban-board"
+  },
+  {
+    "maintainer": "joeyyy09",
+    "project": "FoodFiesta"
+  },
+  {
+    "maintainer": "Ishpreet-Kaur-bedi",
+    "project": "Hospital-Booking-Medibook"
+  },
+  {
+    "maintainer": "HiRoaR2002",
+    "project": "Quickly-Backend"
+  },
+  {
+    "maintainer": "sadityakumar9211",
+    "project": "travel-site-frontend"
+  },
+  {
+    "maintainer": "Spedrick",
+    "project": "GitInit-Foss"
+  }
 ]
