@@ -1,1 +1,298 @@
-// export default {"Jay179-sudo":{"name":"Jay Prasad","rollNumber":"2021BCS-080","score":0,"easy":0,"medium":0,"hard":0},"Aaroh1":{"name":"Aaroh Srivastava","rollNumber":"2021BCS-001","score":0,"easy":0,"medium":0,"hard":0},"R-Yash":{"name":"Avantsa Raja Yashwanth","rollNumber":"2021BCS-016","score":0,"easy":0,"medium":0,"hard":0},"ishtails":{"name":"Kartikay Tiwari","rollNumber":"2021BCS-035","score":0,"easy":0,"medium":0,"hard":0},"Ayushborage28":{"name":"Ayush Bipin Borage","rollNumber":"2021IMG-019","score":0,"easy":0,"medium":0,"hard":0},"thegoodgamer14":{"name":"Aryan Sharma","rollNumber":"2021BCS-072","score":0,"easy":0,"medium":0,"hard":0},"coderboy yash":{"name":"yash nigam","rollNumber":"2021 IMT-115","score":0,"easy":0,"medium":0,"hard":0},"anurag-4508":{"name":"Anurag mandloi","rollNumber":"2021IMG-013","score":0,"easy":0,"medium":0,"hard":0},"Prasun60":{"name":"Prasun Mondal","rollNumber":"2021BCS-054","score":0,"easy":0,"medium":0,"hard":0},"Shruti78":{"name":"Shruti Murthy","rollNumber":"2021IMT-094","score":0,"easy":0,"medium":0,"hard":0},"PRATYUSH0077":{"name":"PRATYUSH SINHA","rollNumber":"IMT2021-076","score":0,"easy":0,"medium":0,"hard":0},"lata-11":{"name":"Lata","rollNumber":"2021-IMT-059","score":0,"easy":0,"medium":0,"hard":0},"codesmith25103":{"name":"SANKALP","rollNumber":"2021IMT084","score":0,"easy":0,"medium":0,"hard":0},"Yushmanth-reddy":{"name":"Ponnolu Yushmanth Pali Reddy","rollNumber":"2021IMT-075","score":0,"easy":0,"medium":0,"hard":0},"Vinayak-Sutar":{"name":"Vinayak Sutar","rollNumber":"2021IMT-112","score":0,"easy":0,"medium":0,"hard":0},"elbertronnie":{"name":"Elbert Ronnie","rollNumber":"2021IMT-033","score":0,"easy":0,"medium":0,"hard":0},"Nihit25":{"name":"Nihit Moolaney","rollNumber":"2021IMT-069","score":0,"easy":0,"medium":0,"hard":0},"Yaxhveer":{"name":"Yashveer","rollNumber":"2021IMT-116","score":0,"easy":0,"medium":0,"hard":0},"AdarshK29":{"name":"Adarsh Kumar","rollNumber":"2021IMT-004","score":0,"easy":0,"medium":0,"hard":0},"ImAnshuJoshi":{"name":"Anshu Joshi","rollNumber":"2021BCS-014","score":0,"easy":0,"medium":0,"hard":0},"MSVelan":{"name":"Muthiah Sivavelan","rollNumber":"2021IMG-034","score":0,"easy":0,"medium":0,"hard":0},"amanycodes":{"name":"Aman Yadav","rollNumber":"2021IMG-006","score":0,"easy":0,"medium":0,"hard":0},"bismuth42":{"name":"Vani Bandodkar","rollNumber":"2021IMT-108","score":0,"easy":0,"medium":0,"hard":0},"Satyabrat-Ojha":{"name":"Satyabrat Ojha","rollNumber":"2021IMG-054","score":0,"easy":0,"medium":0,"hard":0},"jriyyya":{"name":"Riya Jain","rollNumber":"2021IMG-050","score":0,"easy":0,"medium":0,"hard":0},"marsian83":{"name":"Spandan Barve","rollNumber":"2021BCS-064","score":0,"easy":0,"medium":0,"hard":0},"Aleesha2002":{"name":"Aleesha","rollNumber":"2021BCS-011","score":0,"easy":0,"medium":0,"hard":0},"SakshiGoyat":{"name":"Sakshi","rollNumber":"2021BCS-059","score":0,"easy":0,"medium":0,"hard":0},"romantic-sid":{"name":"Siddharth Jaiswal","rollNumber":"2021IMG-059","score":0,"easy":0,"medium":0,"hard":0},"PradhumnAgarwal":{"name":"Pradhumn Agarwal","rollNumber":"2021IMG-040","score":0,"easy":0,"medium":0,"hard":0}}
+export default {
+    "sagnik3788": {
+       "name": "Sagnik Das",
+       "rollNo": "2022IMT-098",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "vishnukothakapu": {
+       "name": "Kothakapu Vishnu Kiran",
+       "rollNo": "2023IMG-028",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "tokosaniya09": {
+       "name": "Toko Saniya",
+       "rollNo": "2022IMT-114",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "chahatsagarmain": {
+       "name": "Chahat Sagar",
+       "rollNo": "2022IMG-020",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "avanimehta11": {
+       "name": "Avani Mehta",
+       "rollNo": "2022BCS-044",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Rahulll004": {
+       "name": "Rahul Bansal",
+       "rollNo": "2022BCS-054",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Kaito117": {
+       "name": "Pranshu Raj ",
+       "rollNo": "2022BCS-053",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "sathvik-67": {
+       "name": "Gaddala Sathvik",
+       "rollNo": "2022BCS-024",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "believer-99": {
+       "name": "Ashutosh Shukla",
+       "rollNo": "2022IMT-024",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "divyaagrawal261": {
+       "name": "Divya Agrawal",
+       "rollNo": "2022IMT-038",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "AdityaKrSingh26": {
+       "name": "Aditya Kumar Singh",
+       "rollNo": "2022IMG-005",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Ayush-Vish": {
+       "name": "Ayush Vishwakarma",
+       "rollNo": "2022IMT-028",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "kunaxar": {
+       "name": "Kunal Vardani",
+       "rollNo": "2022IMG-032",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "prince01010": {
+       "name": "Atharva",
+       "rollNo": "2022BCS-010",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "samruddhikurhe": {
+       "name": "Samruddhi Kurhe",
+       "rollNo": "2022IMT-100",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "pri2k": {
+       "name": "Priya Keshri",
+       "rollNo": "2022IMT-061",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "rituraj12797": {
+       "name": "Rituraj",
+       "rollNo": "2022IMG-057",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Rishabh-Ag17": {
+       "name": "Rishabh Agarwal",
+       "rollNo": "2022BCS-079",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "AbhiRam162105": {
+       "name": "Yanampally Abhiram Reddy",
+       "rollNo": "2022IMG-067",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "tuna975": {
+       "name": "Anshuman Burman",
+       "rollNo": "2022BCS-009",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "ArshiyaArora": {
+       "name": "Arshiya",
+       "rollNo": "2022IMG-014",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "aishvarya252": {
+       "name": "Aishvarya Jaiswal",
+       "rollNo": "2022BCS-002",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "vineet073": {
+       "name": "Vineet Kumar",
+       "rollNo": "2022BCS-073",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "abhinavs1920": {
+       "name": "Abhinav Sharma",
+       "rollNo": "2022IMG-003",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "ayesha19765": {
+       "name": "Ayesha",
+       "rollNo": "2022BCS-011",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "the1andonlymanojos": {
+       "name": "Manoj Shivagange",
+       "rollNo": "2022IMT-070",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Devansh-Maheshwari ": {
+       "name": "Devansh",
+       "rollNo": "2022BCS-021",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "An-aeonic-ant": {
+       "name": "Anant Maheshwari",
+       "rollNo": "2022BCS-007",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Sahil7741": {
+       "name": "Sahil Jaiswal",
+       "rollNo": "2022IMT-099",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Aniket-SS": {
+       "name": "Aniket Sonawane",
+       "rollNo": "2022IMG-010",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "GauravP23": {
+       "name": "Gaurav Gajanan Pawar ",
+       "rollNo": "2022IMT-083",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "RiyaShewale": {
+       "name": "Riya Shewale",
+       "rollNo": "2022IMT-101",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "dipak-01": {
+       "name": "Dipak Kurkute",
+       "rollNo": "2022IMT-037",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "aditya7302": {
+       "name": "Aditya Garg",
+       "rollNo": "2021IMT-005",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "chakma21": {
+       "name": "Shiny Chakma",
+       "rollNo": "2022IMT-102",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "rushi-k12": {
+       "name": "Rushikesh Kusuma",
+       "rollNo": "2022IMT-065",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    },
+    "Chaitanya-sesha-govind": {
+       "name": "Chaitanya Sesha Govind",
+       "rollNo": "2022IMT-084",
+       "score": 0,
+       "easy": 0,
+       "medium": 0,
+       "hard": 0
+    }
+ }

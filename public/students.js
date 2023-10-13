@@ -1,152 +1,187 @@
 export default [
-  // {
-  //   "Name": "Jay Prasad",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-080",
-  //   "GitHub username": "Jay179-sudo"
-  // },
-  // {
-  //   "Name": "Aaroh Srivastava",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-001",
-  //   "GitHub username": "Aaroh1"
-  // },
-  // {
-  //   "Name": "Avantsa Raja Yashwanth",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-016",
-  //   "GitHub username": "R-Yash"
-  // },
-  // {
-  //   "Name": "Kartikay Tiwari",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-035",
-  //   "GitHub username": "ishtails"
-  // },
-  // {
-  //   "Name": "Ayush Bipin Borage",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-019",
-  //   "GitHub username": "Ayushborage28"
-  // },
-  // {
-  //   "Name": "Aryan Sharma",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-072",
-  //   "GitHub username": "thegoodgamer14"
-  // },
-  // {
-  //   "Name": "yash nigam",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021 IMT-115",
-  //   "GitHub username": "coderboy yash"
-  // },
-  // {
-  //   "Name": "Anurag mandloi",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-013",
-  //   "GitHub username": "anurag-4508"
-  // },
-  // {
-  //   "Name": "Prasun Mondal",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-054",
-  //   "GitHub username": "Prasun60"
-  // },
-  // {
-  //   "Name": "Shruti Murthy",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-094",
-  //   "GitHub username": "Shruti78"
-  // },
-  // {
-  //   "Name": "PRATYUSH SINHA",
-  //   "Roll number (eg. 2021IMT-XXX)": "IMT2021-076",
-  //   "GitHub username": "PRATYUSH0077"
-  // },
-  // {
-  //   "Name": "Lata",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021-IMT-059",
-  //   "GitHub username": "lata-11"
-  // },
-  // {
-  //   "Name": "SANKALP",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT084",
-  //   "GitHub username": "codesmith25103"
-  // },
-  // {
-  //   "Name": "Ponnolu Yushmanth Pali Reddy",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-075",
-  //   "GitHub username": "Yushmanth-reddy"
-  // },
-  // {
-  //   "Name": "Vinayak Sutar",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-112",
-  //   "GitHub username": "Vinayak-Sutar"
-  // },
-  // {
-  //   "Name": "Elbert Ronnie",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-033",
-  //   "GitHub username": "elbertronnie"
-  // },
-  // {
-  //   "Name": "Nihit Moolaney",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-069",
-  //   "GitHub username": "Nihit25"
-  // },
-  // {
-  //   "Name": "Yashveer",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-116",
-  //   "GitHub username": "Yaxhveer"
-  // },
-	// {
-  //   "Name": "Adarsh Kumar",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-004",
-  //   "GitHub username": "AdarshK29"
-  // },
-  // {
-  //   "Name": "Anshu Joshi",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-014",
-  //   "GitHub username": "ImAnshuJoshi"
-  // },
-  // {
-  //   "Name": "Muthiah Sivavelan",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-034",
-  //   "GitHub username": "MSVelan"
-  // },
-  // {
-  //   "Name": "Aman Yadav",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-006",
-  //   "GitHub username": "amanycodes"
-  // },
-  // {
-  //   "Name": "Vani Bandodkar",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMT-108",
-  //   "GitHub username": "bismuth42"
-  // },
-	// {
-  //   "Name": "Satyabrat Ojha",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-054",
-  //   "GitHub username": "Satyabrat-Ojha"
-  // },
-  // {
-  //   "Name": "Riya Jain",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-050",
-  //   "GitHub username": "jriyyya"
-  // },
-  // {
-  //   "Name": "Spandan Barve",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-064",
-  //   "GitHub username": "marsian83"
-  // },
-  // {
-  //   "Name": "Aleesha",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-011",
-  //   "GitHub username": "Aleesha2002"
-  // },
-  // {
-  //   "Name": "Sakshi",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021BCS-059",
-  //   "GitHub username": "SakshiGoyat"
-  // },
-	// {
-  //   "Name": "Siddharth Jaiswal",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-059",
-  //   "GitHub username": "romantic-sid"
-  // },
-	// {
-  //   "Name": "Pradhumn Agarwal",
-  //   "Roll number (eg. 2021IMT-XXX)": "2021IMG-040",
-  //   "GitHub username": "PradhumnAgarwal"
-  // }
+  {
+    "Name": "Sagnik Das",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-098",
+    "GitHub username": "sagnik3788"
+  },
+  {
+    "Name": "Kothakapu Vishnu Kiran",
+    "Roll number (Eg. 2022IMT-XXX)": "2023IMG-028",
+    "GitHub username": "vishnukothakapu"
+  },
+  {
+    "Name": "Toko Saniya",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-114",
+    "GitHub username": "tokosaniya09"
+  },
+  {
+    "Name": "Chahat Sagar",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-020",
+    "GitHub username": "chahatsagarmain"
+  },
+  {
+    "Name": "Avani Mehta",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-044",
+    "GitHub username": "avanimehta11"
+  },
+  {
+    "Name": "Rahul Bansal",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-054",
+    "GitHub username": "Rahulll004"
+  },
+  {
+    "Name": "Pranshu Raj",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-053",
+    "GitHub username": "Kaito117"
+  },
+  {
+    "Name": "Gaddala Sathvik",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-024",
+    "GitHub username": "sathvik-67"
+  },
+  {
+    "Name": "Ashutosh Shukla",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-024 ",
+    "GitHub username": "believer-99"
+  },
+  {
+    "Name": "Divya Agrawal",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-038",
+    "GitHub username": "divyaagrawal261"
+  },
+  {
+    "Name": "Aditya Kumar Singh",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-005",
+    "GitHub username": "AdityaKrSingh26"
+  },
+  {
+    "Name": "Ayush Vishwakarma",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-028",
+    "GitHub username": "Ayush-Vish"
+  },
+  {
+    "Name": "Kunal Vardani",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-032",
+    "GitHub username": "kunaxar"
+  },
+  {
+    "Name": "Atharva",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-010",
+    "GitHub username": "prince01010"
+  },
+  {
+    "Name": "Samruddhi Kurhe",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-100 ",
+    "GitHub username": "samruddhikurhe"
+  },
+  {
+    "Name": "Priya Keshri",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-061",
+    "GitHub username": "pri2k"
+  },
+  {
+    "Name": "Rituraj",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-057",
+    "GitHub username": "rituraj12797"
+  },
+  {
+    "Name": "Rishabh Agarwal",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-079",
+    "GitHub username": "Rishabh-Ag17"
+  },
+  {
+    "Name": "Yanampally Abhiram Reddy",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-067",
+    "GitHub username": "AbhiRam162105"
+  },
+  {
+    "Name": "Anshuman Burman",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-009",
+    "GitHub username": "tuna975"
+  },
+  {
+    "Name": "Arshiya",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-014",
+    "GitHub username": "ArshiyaArora"
+  },
+  {
+    "Name": "Aishvarya Jaiswal",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-002",
+    "GitHub username": "aishvarya252"
+  },
+  {
+    "Name": "Vineet Kumar",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-073",
+    "GitHub username": "vineet073"
+  },
+  {
+    "Name": "Abhinav Sharma",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-003",
+    "GitHub username": "abhinavs1920"
+  },
+  {
+    "Name": "Ayesha",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-011",
+    "GitHub username": "ayesha19765"
+  },
+  {
+    "Name": "Manoj Shivagange",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-070",
+    "GitHub username": "the1andonlymanojos"
+  },
+  {
+    "Name": "Devansh",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-021",
+    "GitHub username": "Devansh-Maheshwari"
+  },
+  {
+    "Name": "Anant Maheshwari",
+    "Roll number (Eg. 2022IMT-XXX)": "2022BCS-007",
+    "GitHub username": "An-aeonic-ant"
+  },
+  {
+    "Name": "Sahil Jaiswal",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-099",
+    "GitHub username": "Sahil7741"
+  },
+  {
+    "Name": "Aniket Sonawane",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMG-010",
+    "GitHub username": "Aniket-SS"
+  },
+  {
+    "Name": "Gaurav Gajanan Pawar",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-083",
+    "GitHub username": "GauravP23"
+  },
+  {
+    "Name": "Riya Shewale",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-101 ",
+    "GitHub username": "RiyaShewale"
+  },
+  {
+    "Name": "Dipak Kurkute",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-037",
+    "GitHub username": "dipak-01"
+  },
+  {
+    "Name": "Aditya Garg",
+    "Roll number (Eg. 2022IMT-XXX)": "2021IMT-005",
+    "GitHub username": "aditya7302"
+  },
+  {
+    "Name": "Shiny Chakma",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-102",
+    "GitHub username": "chakma21"
+  },
+  {
+    "Name": "Rushikesh Kusuma",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-065",
+    "GitHub username": "rushi-k12"
+  },
+  {
+    "Name": "Chaitanya Sesha Govind",
+    "Roll number (Eg. 2022IMT-XXX)": "2022IMT-084",
+    "GitHub username": "Chaitanya-sesha-govind"
+  }
 ]

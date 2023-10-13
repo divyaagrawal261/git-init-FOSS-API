@@ -41,6 +41,18 @@ export default [
   },
   {
     "maintainer": "Spedrick",
-    "project": "GitInit-Foss"
+    "project": "webRTC-server"
+  },
+  {
+    "maintainer": "Spedrick",
+    "project": "Jennifer---Speech-Assistant"
+  },
+  {
+    "maintainer": "Spedrick",
+    "project": "Gallery"
+  },
+  {
+    "maintainer": "Spedrick",
+    "project": "Daily-Sync"
   }
 ]
