@@ -30,8 +30,3 @@ const PORT=3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
-
-schedule.scheduleJob('* * * * * *', async function(){
-    
-  console.log("done")
-})
