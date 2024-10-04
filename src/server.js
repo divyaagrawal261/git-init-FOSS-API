@@ -11,7 +11,7 @@ import { addProject } from "../controllers/projectControllers.js";
 
 dotenv.config();
 
-await mongoose.connect("mongodb://localhost:27017/git-init-foss",
+await mongoose.connect(process.env.MONGO_URI, 
   console.log("Database connected successfully"))
 
 const app = express();
@@ -20,15 +20,15 @@ app.use(express.json());
 
 const __dirname = path.resolve();
 
-app.get("/", (req, res) => {
-  fs.readFile(path.join(__dirname, "public/score.json"), (err, data) => {
-    if (err) {
-      console.log(err);
-    } else {
-      res.json(JSON.parse(data.toString()));
-    }
-  });
-});
+// app.get("/", (req, res) => {
+//   fs.readFile(path.join(__dirname, "public/score.json"), (err, data) => {
+//     if (err) {
+//       console.log(err);
+//     } else {
+//       res.json(JSON.parse(data.toString()));
+//     }
+//   });
+// });
 // app.get("/stats", (req, res) => {
 //   fs.readFile(path.join(__dirname, "public/stats.json"), (err, data) => {
 //     if (err) {
@@ -38,6 +38,9 @@ app.get("/", (req, res) => {
 //     }
 //   });
 // })
+app.get("/", (req,res)=>{
+  res.status(200).json("Welcome to git-init-FOSS-API");
+});
 app.get("/stats", getStats);
 app.put("/update-stats", updateStats);
 app.put("/update-score", updateScore);
