@@ -15,16 +15,15 @@ export const updateScore = async (req, res) => {
         const PR_userId = PR.user.login;
         const registeredUser = await student.findOne({ githubUsername: PR_userId });
 
-        // Check if the PR has already been processed by checking the prId in pullRequestsId collection
         const isPRProcessed = await pullRequestsId.findOne({ prId: PR.id });
         if (isPRProcessed) {
-          continue; // Skip if the PR has already been processed
+          continue; 
         }
         
         let easy = 0, medium = 0, hard = 0, score = 0;
 
-        if (registeredUser && new Date(PR.merged_at) >= new Date("2020-10-01T00:00:00Z") &&
-            new Date(PR.merged_at) <= new Date("2025-10-31T23:59:59Z")) {
+        if (registeredUser && new Date(PR.merged_at) >= new Date("2024-10-05T00:00:00Z") &&
+            new Date(PR.merged_at) <= new Date("2024-10-31T23:59:59Z")) {
           
           if (PR.labels.length === 0) {
             easy++;
@@ -50,13 +49,11 @@ export const updateScore = async (req, res) => {
             }
           }
 
-          // Update the user's score and PRs count using $inc
           await student.findOneAndUpdate(
             { githubUsername: PR_userId },
             { $inc: { score, easy, medium, hard } }
           );
 
-          // After processing the PR, store the prId and githubUsername in pullRequestsId to avoid double counting
           await pullRequestsId.create({
             prId: PR.id,
             githubUsername: PR_userId

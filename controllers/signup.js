@@ -3,7 +3,7 @@ import student from "../models/studentModel.js"
 
 const sendVerificationMail = async ({email, name, githubUsername, contactNumber, rollNo}) => {
     // Construct the verification URL with query parameters
-    const verificationUrl = `http://localhost:5000?` +
+    const verificationUrl = `https://git-init-foss-aasf.vercel.app?` +
         `email=${encodeURIComponent(email)}` +
         `&name=${encodeURIComponent(name)}` +
         `&githubUsername=${encodeURIComponent(githubUsername)}` +
