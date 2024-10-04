@@ -1,4 +1,4 @@
-import transporter from "./nodemailer.js"
+import transporter from "../utils/nodemailer.js"
 import student from "../models/studentModel.js"
 
 const sendVerificationMail = async ({email, name, githubUsername, contactNumber, rollNo}) => {
