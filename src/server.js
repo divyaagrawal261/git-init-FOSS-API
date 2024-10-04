@@ -8,6 +8,7 @@ import mongoose from "mongoose";
 import { getStats, updateStats } from "../controllers/statsControllers.js";
 import { updateScore } from "../controllers/scoreControllers.js";
 import { addProject } from "../controllers/projectControllers.js";
+import { displayLeaderboard } from "../controllers/leaderboardControllers.js";
 
 dotenv.config();
 
@@ -45,6 +46,7 @@ app.get("/stats", getStats);
 app.put("/update-stats", updateStats);
 app.put("/update-score", updateScore);
 app.post("/add-project", addProject);
+app.get("/leaderboard", displayLeaderboard);
 
 const PORT=3000;
 app.listen(PORT, () => {
