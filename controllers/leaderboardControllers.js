@@ -1,4 +1,4 @@
-import student from "../models/studentModel";
+import student from "../models/studentModel.js";
 
 export const displayLeaderboard = async (req, res) => {
     try {
